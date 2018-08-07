@@ -2,6 +2,8 @@ class Dog
   
 end
 
-fido
+fido = Dog
   
   snoopy
+  
+  lassie
